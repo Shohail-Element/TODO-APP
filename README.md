@@ -43,7 +43,7 @@ cd backend
 nodemon server
 
 ```
-nodemon server
+npm start
 ```
 
 cd frontend
