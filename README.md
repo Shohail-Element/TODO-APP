@@ -16,7 +16,7 @@ cd app
 npm install
 
 ```
-
+npm install
 ```
 
 cd backend
@@ -43,12 +43,12 @@ cd backend
 nodemon server
 
 ```
-
+nodemon server
 ```
 
 cd frontend
 npm start
 
 ```
-
+npm start
 ```
